@@ -16,7 +16,11 @@ and tedious environment to try to study circuitry in. I want a tool that
 doesn't make me afraid of being attacked by zombies while I build my logic
 gates!
 
-## 
+In this exercise, I would like you to build a tool that makes exploring
+digital circuitry fun and interesting. The summary below provides some
+suggestions on what things in particular I have in mind, but everyone
+should be able to come up with their own unique take on the idea.
+
 ## Exercise Summary
 
 - Design and model a game with the following features:
