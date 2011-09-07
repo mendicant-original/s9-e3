@@ -1,6 +1,6 @@
 # Academic Exercise: Digital Logic Simulator
 
-_written by: Gregory Brown for Mendicant University core skills session #9_
+_written by Gregory Brown for Mendicant University core skills session #9_
 
 I had a lot of fun coming up with the ["All Wired Up" PuzzleNode problem](http://puzzlenode.com/puzzles/18) 
 that was part of this session's entrance 
