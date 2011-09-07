@@ -30,8 +30,8 @@ too much overlap.
   as an inspiration, but be sure to have some fresh ideas of your own.
 - You should be able to build modular gates that can be re-used in other circuits.
 - The way you handle input and output visualization is completely up to 
-  you, but it should be something easy to work with for someone who 
-  wants to explore circuitry but is not necessarily a programmer.
+  you
+- Your tool should be easy to work with for someone who wants to explore circuitry but is not necessarily a programmer.
 - It should be possible to assign inputs, evaluate the circuits, and
   then inspect their outputs.
 - Some sort of friendly debugging process and tools would be nice to have.
