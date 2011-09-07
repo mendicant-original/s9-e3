@@ -9,7 +9,7 @@ generally useful tool for playing around with simulated digital circuits,
 but then I quickly got too busy to look into it further.
 
 Then, I started playing Minecraft and my interest in circuitry simulations was
-reignited! The game has a full system for doing all sorts of fun logical
+reignited! The game has a [full circuitry system](http://www.minecraftwiki.net/wiki/Redstone_circuits) for doing all sorts of fun logical
 processing based on the most primitive inputs. But Minecraft is much better
 as a game than as a learning environment, and it can be a very frustrating
 and tedious environment to try to study circuitry in. I want a tool that
