@@ -19,19 +19,25 @@ gates!
 In this exercise, I would like you to build a tool that makes exploring
 digital circuitry fun and interesting. The summary below provides some
 suggestions on what things in particular I have in mind, but everyone
-should be able to come up with their own unique take on the idea.
+should be able to come up with their own unique take on the idea without
+too much overlap.
 
 ## Exercise Summary
 
-- Design and model a game with the following features:
-  - A map which can be represented as a graph structure
-  - Rules that result in exponentially increasing danger as the game progresses
-  - Resources which players must collect repeatedly in sets to win the game
-  - Rules that create tension between slowing down immediate danger and
-    collecting all the needed resources
-- Create your own unique theme, don't copy the scenarios from the example games
-- Implement at least a single player mode which demonstrates the game setup and the
-  different actions that can take place on a turn.
+- You should create a tool that makes exploring and learning about
+  logical circuitry fun and interesting.
+- You can use the "All Wired Up" problem and MineCraft's Redstone circuits
+  as an inspiration, but your project can and should take a different
+  approach.
+- The ability to re-use subcomponents such as the various logic gates in
+  a modular way would be nice. So you should be able to build a custom gate
+  and re-use it in another gate.
+- The way you handle input and output visualization is completely up to 
+  you, but it should be something easy to work with for someone who 
+  wants to explore circuitry but is not necessarily a programmer.
+- It should be possible to assign inputs, evaluate the circuits, and
+  then inspect their outputs.
+- Some sort of friendly debugging process and tools would be nice to have.
 
 ## Submission Guidelines
 
