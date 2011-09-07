@@ -27,7 +27,7 @@ too much overlap.
 - You should create a tool that makes exploring and learning about
   logical circuitry fun and interesting.
 - You can use the "All Wired Up" problem and MineCraft's Redstone circuits
-  as an inspiration, but you should also come up with some fresh ideas of your own.
+  as an inspiration, but be sure to have some fresh ideas of your own.
 - The ability to re-use subcomponents such as the various logic gates in
   a modular way would be nice. So you should be able to build a custom gate
   and re-use it in another gate.
