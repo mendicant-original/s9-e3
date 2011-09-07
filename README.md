@@ -32,8 +32,7 @@ too much overlap.
 - The way you handle input and output visualization is completely up to 
   you
 - Your tool should be easy to work with for someone who wants to explore circuitry but is not necessarily a programmer.
-- It should be possible to assign inputs, evaluate the circuits, and
-  then inspect their outputs.
+- It should be possible to assign inputs, evaluate the circuits, and then inspect their outputs.
 - Some sort of friendly debugging process and tools would be nice to have.
 
 ## Submission Guidelines
